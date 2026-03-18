@@ -4,7 +4,8 @@ Project Overview This project provides a data-driven deep dive into air quality 
   <h1>🌍 Global Air Quality Analysis (AQI)</h1>
   <h3>🏆 <b>Runner-Up | Datathon Competition</b></h3>
   
-  <img src="E:\AQI_Nexor\WhatsApp Image 2026-02-19 at 8.04.38 PM (1).jpeg" alt="Project Dashboard Preview" width="100%" style="border-radius: 10px; margin: 20px 0;">
+ <img width="1281" height="724" alt="image" src="![WhatsApp Image 2026-02-19 at 8 04 38 PM (1)](https://github.com/user-attachments/assets/7908885a-bcfd-4661-a357-add04dc86ec8)
+" />
 </div>
 
 <hr>
