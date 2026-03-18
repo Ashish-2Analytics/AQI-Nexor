@@ -73,7 +73,7 @@ This project proves that AQI is not just about emissions—it's about **Atmosphe
 </div>
 
 <div align="center">
-  <img src="AQI_Correlations.png" alt="Statistical Analysis" width="75%">
+  <img src="correlation_heatmap.png" alt="Statistical Analysis" width="75%">
   <p><i>Figure 2: Heatmap showing the correlation between Humidity, Temperature, and PM2.5 levels.</i></p>
 </div>
 
@@ -81,7 +81,7 @@ This project proves that AQI is not just about emissions—it's about **Atmosphe
 
 <div align="center">
   <p><b>Developed by Ashish Patel</b><br>
-  BCA (3rd Year) @ GHRCCST<br>
+  BCA (3rd Year) @ DATA ANALYSICS<br>
   <a href="mailto:ashishpatelg2@gmail.com">📧 Get in Touch</a> | 
   <a href="www.linkedin.com/in/ashish-patel-data24">🔗 LinkedIn</a></p>
   <sub><i>Project completed as part of the 2026 Datathon Series</i></sub>
