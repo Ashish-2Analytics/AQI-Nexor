@@ -82,7 +82,7 @@ This project proves that AQI is not just about emissions—it's about **Atmosphe
 <div align="center">
   <p><b>Developed by Ashish Patel</b><br>
   BCA (3rd Year) @ GHRCCST<br>
-  <a href="mailto:ashish.patel.bca@ghrccst.raisoni.net">📧 Get in Touch</a> | 
-  <a href="https://linkedin.com/in/your-profile">🔗 LinkedIn</a></p>
+  <a href="mailto:ashishpatelg2@gmail.com">📧 Get in Touch</a> | 
+  <a href="www.linkedin.com/in/ashish-patel-data24">🔗 LinkedIn</a></p>
   <sub><i>Project completed as part of the 2026 Datathon Series</i></sub>
 </div>
