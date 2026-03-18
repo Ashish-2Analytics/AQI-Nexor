@@ -9,7 +9,7 @@
   <br><br>
 
   <div style="background: linear-gradient(145deg, #f0f0f0, #ffffff); border-radius: 15px; padding: 25px; border: 1px solid #e0e0e0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
-     <img src="dashboard.png" alt="AQI-Nexor Dashboard Preview" width="95%" style="border-radius: 8px;">
+     <img src="dashboard.png.png" alt="AQI-Nexor Dashboard Preview" width="95%" style="border-radius: 8px;">
      <p style="color: #666; margin-top: 10px;"><b>Figure 1:</b> Interactive Geospatial Analysis & Pollutant Correlation Dashboard</p>
   </div>
 </div>
